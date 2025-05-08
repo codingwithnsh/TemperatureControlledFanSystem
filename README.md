@@ -68,7 +68,3 @@ The main Arduino code for the fan control can be found in the file `fan_control.
 This project is for educational purposes. You are free to modify and build upon the design, but the code is protected under internal policies and is shared only for personal, non-commercial use.
 
 ---
-
-## 🙋‍♂️ Author
-
-Created by **[Your Name]**, a passionate maker working on DIY automation and cooling solutions.
